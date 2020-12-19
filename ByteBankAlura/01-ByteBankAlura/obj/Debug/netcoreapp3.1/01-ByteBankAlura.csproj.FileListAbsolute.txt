@@ -1,0 +1,13 @@
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\bin\Debug\netcoreapp3.1\01-ByteBankAlura.exe
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\bin\Debug\netcoreapp3.1\01-ByteBankAlura.deps.json
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\bin\Debug\netcoreapp3.1\01-ByteBankAlura.runtimeconfig.json
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\bin\Debug\netcoreapp3.1\01-ByteBankAlura.runtimeconfig.dev.json
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\bin\Debug\netcoreapp3.1\01-ByteBankAlura.dll
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\bin\Debug\netcoreapp3.1\01-ByteBankAlura.pdb
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\obj\Debug\netcoreapp3.1\01-ByteBankAlura.csprojAssemblyReference.cache
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\obj\Debug\netcoreapp3.1\01-ByteBankAlura.AssemblyInfoInputs.cache
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\obj\Debug\netcoreapp3.1\01-ByteBankAlura.AssemblyInfo.cs
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\obj\Debug\netcoreapp3.1\01-ByteBankAlura.csproj.CoreCompileInputs.cache
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\obj\Debug\netcoreapp3.1\01-ByteBankAlura.dll
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\obj\Debug\netcoreapp3.1\01-ByteBankAlura.pdb
+C:\Users\Argolo-Note\Desktop\Alura - Italo\ByteBankAlura\01-ByteBankAlura\obj\Debug\netcoreapp3.1\01-ByteBankAlura.genruntimeconfig.cache

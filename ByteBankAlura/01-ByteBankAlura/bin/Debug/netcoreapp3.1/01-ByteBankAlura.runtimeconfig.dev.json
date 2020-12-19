@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Argolo-Note\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Argolo-Note\\.nuget\\packages"
+    ]
+  }
+}
