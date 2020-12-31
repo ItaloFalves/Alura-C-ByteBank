@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Argolo-Note\\Desktop\\Alura - Italo\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj": {}
+    "C:\\Users\\Argolo-Note\\Desktop\\Alura CSharp ByteBank\\Alura-C-ByteBank\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Argolo-Note\\Desktop\\Alura - Italo\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj": {
+    "C:\\Users\\Argolo-Note\\Desktop\\Alura CSharp ByteBank\\Alura-C-ByteBank\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Argolo-Note\\Desktop\\Alura - Italo\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj",
+        "projectUniqueName": "C:\\Users\\Argolo-Note\\Desktop\\Alura CSharp ByteBank\\Alura-C-ByteBank\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj",
         "projectName": "01-ByteBankAlura",
-        "projectPath": "C:\\Users\\Argolo-Note\\Desktop\\Alura - Italo\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj",
+        "projectPath": "C:\\Users\\Argolo-Note\\Desktop\\Alura CSharp ByteBank\\Alura-C-ByteBank\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj",
         "packagesPath": "C:\\Users\\Argolo-Note\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Argolo-Note\\Desktop\\Alura - Italo\\ByteBankAlura\\01-ByteBankAlura\\obj\\",
+        "outputPath": "C:\\Users\\Argolo-Note\\Desktop\\Alura CSharp ByteBank\\Alura-C-ByteBank\\ByteBankAlura\\01-ByteBankAlura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Argolo-Note\\AppData\\Roaming\\NuGet\\NuGet.Config",

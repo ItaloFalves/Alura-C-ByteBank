@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AFD1Dx8Vacl6P2RjFr1QrOY7uMt2vpm1hIJxnaBaYFuPaWf70gEoZsmzpArsjWe5SN645AWNgwzkzVMQdtJ3ew==",
+  "dgSpecHash": "dbrF0CHmSutXAst0dMuC4DrsN/aXyCW0c+uDfEb+NO8th+5HPq+j/CXcWYyErgba1AOQ5FSEBZAVqI/+Gxv1tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Argolo-Note\\Desktop\\Alura - Italo\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj",
+  "projectFilePath": "C:\\Users\\Argolo-Note\\Desktop\\Alura CSharp ByteBank\\Alura-C-ByteBank\\ByteBankAlura\\01-ByteBankAlura\\01-ByteBankAlura.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
